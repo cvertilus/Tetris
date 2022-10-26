@@ -9,7 +9,7 @@
    
    
    
-## Uso de Juego 
+## Uso
  - Descagar las dos carpetas
     - archivo
     - src
