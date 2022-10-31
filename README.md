@@ -14,7 +14,7 @@
     - archivo
     - src
   - Iniciar el juego 
-    - Run al main.py
+    - python3 main.py
   - Disfrutar del juego
   
   
