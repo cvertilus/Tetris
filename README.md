@@ -10,7 +10,7 @@
    
    
 ## Uso
- - Descagar los dos carpetas
+ - Descagar las dos carpetas
     - archivo
     - src
   - Iniciar el juego 
